@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_notes"
+        android:icon="@drawable/ic_note"
+        android:title="@string/nav_notes" />
+
+    <item
+        android:id="@+id/navigation_todos"
+        android:icon="@drawable/ic_todo_list"
+        android:title="@string/nav_todos" />
+
+    <item
+        android:id="@+id/navigation_archive"
+        android:icon="@drawable/ic_lock_archive"
+        android:title="@string/nav_archive" />
+
+
+
+</menu>
