@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RMA_NotesApp</string>
+    <string name="nav_notes">Notes</string>
+    <string name="nav_todos">TODO Lists</string>
+    <string name="nav_archive">Archive</string>
+    <string name="default_notes">This is where notes go</string>
+    <string name="default_todos">This is where TODO Lists go</string>
+    <string name="default_archive">This is for archived notes (pasword protected)</string>
+</resources>

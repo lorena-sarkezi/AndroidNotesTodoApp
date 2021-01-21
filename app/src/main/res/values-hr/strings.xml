@@ -1,14 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">RMA_NotesApp</string>
-    <string name="title_home" translatable="false">Home</string>
-    <string name="title_dashboard" translatable="false">Dashboard</string>
-    <string name="title_notifications" translatable="false">Notifications</string>
     <string name="nav_notes">Bilješke</string>
     <string name="nav_todos">TODO Liste</string>
     <string name="nav_archive">Arhiva</string>
-
     <string name="default_notes">Ovdje idu bilješke</string>
     <string name="default_todos">Ovdje idu TODO liste</string>
     <string name="default_archive">Ovdje idu arhivirane bilješke (pod lozinkom)</string>
-
 </resources>
