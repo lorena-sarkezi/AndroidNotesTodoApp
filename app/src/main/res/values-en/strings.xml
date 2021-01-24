@@ -7,4 +7,7 @@
     <string name="default_notes">This is where notes go</string>
     <string name="default_todos">This is where TODO Lists go</string>
     <string name="default_archive">This is for archived notes (pasword protected)</string>
+    <string name="header_new_note">New note</string>
+    <string name="item_title">Title</string>
+    <string name="header_new_todo">New TODO list</string>
 </resources>

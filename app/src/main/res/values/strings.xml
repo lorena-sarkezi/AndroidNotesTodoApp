@@ -10,5 +10,8 @@
     <string name="default_notes">Ovdje idu bilješke</string>
     <string name="default_todos">Ovdje idu TODO liste</string>
     <string name="default_archive">Ovdje idu arhivirane bilješke (pod lozinkom)</string>
+    <string name="item_title">Naziv</string>
+    <string name="header_new_note">Nova bilješka</string>
+    <string name="header_new_todo">Nova TODO lista</string>
 
 </resources>

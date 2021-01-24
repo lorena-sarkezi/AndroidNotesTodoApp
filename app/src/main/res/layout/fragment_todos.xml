@@ -7,7 +7,7 @@
     tools:context=".ui.todos.TodosFragment">
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/floatingActionButton"
+        android:id="@+id/btnAddTodo"
         android:layout_width="56dp"
         android:layout_height="0dp"
         android:layout_marginBottom="32dp"
